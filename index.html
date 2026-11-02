@@ -1,15 +1,74 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#f7f8fa" />
-    <meta name="description" content="Ask questions and get focused answers from your PDF documents." />
-    <title>Papertrail — PDF assistant</title>
-    <script type="module" crossorigin src="/assets/index-DdxShNHJ.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-D4lK7W5_.css">
+    <title>Attendance Analysis Agent</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
   </head>
   <body>
-    <div id="root"></div>
+    <div class="app">
+      <aside class="sidebar">
+        <div class="brand">
+          <span class="mark">AA</span>
+          <div>
+            <h1>Attendance Agent</h1>
+            <p>Ask questions. Flag low attendance.</p>
+          </div>
+        </div>
+
+        <section class="stats" id="stats"></section>
+
+        <section class="panel">
+          <h2>At-risk threshold</h2>
+          <div class="threshold-row">
+            <input id="threshold" type="range" min="50" max="100" value="75" />
+            <strong id="thresholdLabel">75%</strong>
+          </div>
+          <p class="hint">Students below this percentage are listed as at risk.</p>
+          <div id="riskList" class="risk-list"></div>
+        </section>
+
+        <section class="panel">
+          <h2>Data</h2>
+          <label class="upload">
+            <input id="csv" type="file" accept=".csv" />
+            Upload CSV
+          </label>
+          <button id="reset" class="ghost" type="button">Reload sample data</button>
+          <p class="hint">
+            Columns: student_id, name, section, subject, date, status
+            (Present / Absent / Late)
+          </p>
+        </section>
+      </aside>
+
+      <main class="chat">
+        <header>
+          <h2>Ask about attendance</h2>
+          <p>Natural language questions about the loaded class records.</p>
+        </header>
+        <div id="messages" class="messages"></div>
+        <form id="askForm" class="composer">
+          <div class="chips">
+            <button type="button" data-q="Who is below 75% attendance?">Below 75%</button>
+            <button type="button" data-q="What is the class average attendance?">Class average</button>
+            <button type="button" data-q="Attendance of Rohan Gupta">Rohan Gupta</button>
+            <button type="button" data-q="Best attendance in section A">Section A best</button>
+            <button type="button" data-q="Students with the most absences in Physics">Physics absences</button>
+          </div>
+          <div class="row">
+            <input
+              id="question"
+              type="text"
+              autocomplete="off"
+              placeholder="e.g. Who is below 80% in Mathematics?"
+            />
+            <button type="submit">Ask</button>
+          </div>
+        </form>
+      </main>
+    </div>
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
   </body>
 </html>

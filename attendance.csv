@@ -1,0 +1,241 @@
+student_id,name,section,subject,date,status
+S001,Aarav Mehta,A,Mathematics,2026-10-01,Present
+S001,Aarav Mehta,A,Physics,2026-10-01,Present
+S001,Aarav Mehta,A,English,2026-10-01,Present
+S001,Aarav Mehta,A,Computer Science,2026-10-01,Present
+S001,Aarav Mehta,A,Mathematics,2026-10-02,Present
+S001,Aarav Mehta,A,Physics,2026-10-02,Late
+S001,Aarav Mehta,A,English,2026-10-02,Present
+S001,Aarav Mehta,A,Computer Science,2026-10-02,Present
+S001,Aarav Mehta,A,Mathematics,2026-10-03,Present
+S001,Aarav Mehta,A,Physics,2026-10-03,Present
+S001,Aarav Mehta,A,English,2026-10-03,Absent
+S001,Aarav Mehta,A,Computer Science,2026-10-03,Present
+S001,Aarav Mehta,A,Mathematics,2026-10-06,Present
+S001,Aarav Mehta,A,Physics,2026-10-06,Present
+S001,Aarav Mehta,A,English,2026-10-06,Present
+S001,Aarav Mehta,A,Computer Science,2026-10-06,Present
+S001,Aarav Mehta,A,Mathematics,2026-10-07,Present
+S001,Aarav Mehta,A,Physics,2026-10-07,Present
+S001,Aarav Mehta,A,English,2026-10-07,Present
+S001,Aarav Mehta,A,Computer Science,2026-10-07,Late
+S002,Priya Sharma,A,Mathematics,2026-10-01,Present
+S002,Priya Sharma,A,Physics,2026-10-01,Present
+S002,Priya Sharma,A,English,2026-10-01,Present
+S002,Priya Sharma,A,Computer Science,2026-10-01,Present
+S002,Priya Sharma,A,Mathematics,2026-10-02,Present
+S002,Priya Sharma,A,Physics,2026-10-02,Present
+S002,Priya Sharma,A,English,2026-10-02,Present
+S002,Priya Sharma,A,Computer Science,2026-10-02,Present
+S002,Priya Sharma,A,Mathematics,2026-10-03,Present
+S002,Priya Sharma,A,Physics,2026-10-03,Present
+S002,Priya Sharma,A,English,2026-10-03,Present
+S002,Priya Sharma,A,Computer Science,2026-10-03,Present
+S002,Priya Sharma,A,Mathematics,2026-10-06,Present
+S002,Priya Sharma,A,Physics,2026-10-06,Late
+S002,Priya Sharma,A,English,2026-10-06,Present
+S002,Priya Sharma,A,Computer Science,2026-10-06,Present
+S002,Priya Sharma,A,Mathematics,2026-10-07,Present
+S002,Priya Sharma,A,Physics,2026-10-07,Present
+S002,Priya Sharma,A,English,2026-10-07,Present
+S002,Priya Sharma,A,Computer Science,2026-10-07,Present
+S003,Rohan Gupta,A,Mathematics,2026-10-01,Absent
+S003,Rohan Gupta,A,Physics,2026-10-01,Absent
+S003,Rohan Gupta,A,English,2026-10-01,Present
+S003,Rohan Gupta,A,Computer Science,2026-10-01,Absent
+S003,Rohan Gupta,A,Mathematics,2026-10-02,Absent
+S003,Rohan Gupta,A,Physics,2026-10-02,Present
+S003,Rohan Gupta,A,English,2026-10-02,Absent
+S003,Rohan Gupta,A,Computer Science,2026-10-02,Present
+S003,Rohan Gupta,A,Mathematics,2026-10-03,Absent
+S003,Rohan Gupta,A,Physics,2026-10-03,Absent
+S003,Rohan Gupta,A,English,2026-10-03,Present
+S003,Rohan Gupta,A,Computer Science,2026-10-03,Absent
+S003,Rohan Gupta,A,Mathematics,2026-10-06,Present
+S003,Rohan Gupta,A,Physics,2026-10-06,Absent
+S003,Rohan Gupta,A,English,2026-10-06,Absent
+S003,Rohan Gupta,A,Computer Science,2026-10-06,Present
+S003,Rohan Gupta,A,Mathematics,2026-10-07,Absent
+S003,Rohan Gupta,A,Physics,2026-10-07,Present
+S003,Rohan Gupta,A,English,2026-10-07,Absent
+S003,Rohan Gupta,A,Computer Science,2026-10-07,Absent
+S004,Ananya Iyer,B,Mathematics,2026-10-01,Present
+S004,Ananya Iyer,B,Physics,2026-10-01,Present
+S004,Ananya Iyer,B,English,2026-10-01,Present
+S004,Ananya Iyer,B,Computer Science,2026-10-01,Present
+S004,Ananya Iyer,B,Mathematics,2026-10-02,Present
+S004,Ananya Iyer,B,Physics,2026-10-02,Present
+S004,Ananya Iyer,B,English,2026-10-02,Late
+S004,Ananya Iyer,B,Computer Science,2026-10-02,Present
+S004,Ananya Iyer,B,Mathematics,2026-10-03,Present
+S004,Ananya Iyer,B,Physics,2026-10-03,Present
+S004,Ananya Iyer,B,English,2026-10-03,Present
+S004,Ananya Iyer,B,Computer Science,2026-10-03,Present
+S004,Ananya Iyer,B,Mathematics,2026-10-06,Absent
+S004,Ananya Iyer,B,Physics,2026-10-06,Present
+S004,Ananya Iyer,B,English,2026-10-06,Present
+S004,Ananya Iyer,B,Computer Science,2026-10-06,Present
+S004,Ananya Iyer,B,Mathematics,2026-10-07,Present
+S004,Ananya Iyer,B,Physics,2026-10-07,Present
+S004,Ananya Iyer,B,English,2026-10-07,Present
+S004,Ananya Iyer,B,Computer Science,2026-10-07,Present
+S005,Kabir Singh,B,Mathematics,2026-10-01,Present
+S005,Kabir Singh,B,Physics,2026-10-01,Absent
+S005,Kabir Singh,B,English,2026-10-01,Absent
+S005,Kabir Singh,B,Computer Science,2026-10-01,Present
+S005,Kabir Singh,B,Mathematics,2026-10-02,Absent
+S005,Kabir Singh,B,Physics,2026-10-02,Absent
+S005,Kabir Singh,B,English,2026-10-02,Present
+S005,Kabir Singh,B,Computer Science,2026-10-02,Absent
+S005,Kabir Singh,B,Mathematics,2026-10-03,Present
+S005,Kabir Singh,B,Physics,2026-10-03,Absent
+S005,Kabir Singh,B,English,2026-10-03,Absent
+S005,Kabir Singh,B,Computer Science,2026-10-03,Present
+S005,Kabir Singh,B,Mathematics,2026-10-06,Absent
+S005,Kabir Singh,B,Physics,2026-10-06,Present
+S005,Kabir Singh,B,English,2026-10-06,Absent
+S005,Kabir Singh,B,Computer Science,2026-10-06,Absent
+S005,Kabir Singh,B,Mathematics,2026-10-07,Present
+S005,Kabir Singh,B,Physics,2026-10-07,Absent
+S005,Kabir Singh,B,English,2026-10-07,Present
+S005,Kabir Singh,B,Computer Science,2026-10-07,Absent
+S006,Meera Nair,A,Mathematics,2026-10-01,Present
+S006,Meera Nair,A,Physics,2026-10-01,Present
+S006,Meera Nair,A,English,2026-10-01,Present
+S006,Meera Nair,A,Computer Science,2026-10-01,Present
+S006,Meera Nair,A,Mathematics,2026-10-02,Present
+S006,Meera Nair,A,Physics,2026-10-02,Present
+S006,Meera Nair,A,English,2026-10-02,Present
+S006,Meera Nair,A,Computer Science,2026-10-02,Present
+S006,Meera Nair,A,Mathematics,2026-10-03,Late
+S006,Meera Nair,A,Physics,2026-10-03,Present
+S006,Meera Nair,A,English,2026-10-03,Present
+S006,Meera Nair,A,Computer Science,2026-10-03,Present
+S006,Meera Nair,A,Mathematics,2026-10-06,Present
+S006,Meera Nair,A,Physics,2026-10-06,Present
+S006,Meera Nair,A,English,2026-10-06,Present
+S006,Meera Nair,A,Computer Science,2026-10-06,Present
+S006,Meera Nair,A,Mathematics,2026-10-07,Present
+S006,Meera Nair,A,Physics,2026-10-07,Present
+S006,Meera Nair,A,English,2026-10-07,Present
+S006,Meera Nair,A,Computer Science,2026-10-07,Present
+S007,Vikram Reddy,B,Mathematics,2026-10-01,Present
+S007,Vikram Reddy,B,Physics,2026-10-01,Present
+S007,Vikram Reddy,B,English,2026-10-01,Absent
+S007,Vikram Reddy,B,Computer Science,2026-10-01,Present
+S007,Vikram Reddy,B,Mathematics,2026-10-02,Present
+S007,Vikram Reddy,B,Physics,2026-10-02,Late
+S007,Vikram Reddy,B,English,2026-10-02,Present
+S007,Vikram Reddy,B,Computer Science,2026-10-02,Present
+S007,Vikram Reddy,B,Mathematics,2026-10-03,Absent
+S007,Vikram Reddy,B,Physics,2026-10-03,Present
+S007,Vikram Reddy,B,English,2026-10-03,Present
+S007,Vikram Reddy,B,Computer Science,2026-10-03,Late
+S007,Vikram Reddy,B,Mathematics,2026-10-06,Present
+S007,Vikram Reddy,B,Physics,2026-10-06,Present
+S007,Vikram Reddy,B,English,2026-10-06,Present
+S007,Vikram Reddy,B,Computer Science,2026-10-06,Present
+S007,Vikram Reddy,B,Mathematics,2026-10-07,Present
+S007,Vikram Reddy,B,Physics,2026-10-07,Absent
+S007,Vikram Reddy,B,English,2026-10-07,Present
+S007,Vikram Reddy,B,Computer Science,2026-10-07,Present
+S008,Sana Khan,A,Mathematics,2026-10-01,Absent
+S008,Sana Khan,A,Physics,2026-10-01,Absent
+S008,Sana Khan,A,English,2026-10-01,Absent
+S008,Sana Khan,A,Computer Science,2026-10-01,Present
+S008,Sana Khan,A,Mathematics,2026-10-02,Absent
+S008,Sana Khan,A,Physics,2026-10-02,Present
+S008,Sana Khan,A,English,2026-10-02,Absent
+S008,Sana Khan,A,Computer Science,2026-10-02,Absent
+S008,Sana Khan,A,Mathematics,2026-10-03,Present
+S008,Sana Khan,A,Physics,2026-10-03,Absent
+S008,Sana Khan,A,English,2026-10-03,Absent
+S008,Sana Khan,A,Computer Science,2026-10-03,Present
+S008,Sana Khan,A,Mathematics,2026-10-06,Absent
+S008,Sana Khan,A,Physics,2026-10-06,Absent
+S008,Sana Khan,A,English,2026-10-06,Present
+S008,Sana Khan,A,Computer Science,2026-10-06,Absent
+S008,Sana Khan,A,Mathematics,2026-10-07,Absent
+S008,Sana Khan,A,Physics,2026-10-07,Present
+S008,Sana Khan,A,English,2026-10-07,Absent
+S008,Sana Khan,A,Computer Science,2026-10-07,Absent
+S009,Ishaan Patel,B,Mathematics,2026-10-01,Present
+S009,Ishaan Patel,B,Physics,2026-10-01,Present
+S009,Ishaan Patel,B,English,2026-10-01,Present
+S009,Ishaan Patel,B,Computer Science,2026-10-01,Present
+S009,Ishaan Patel,B,Mathematics,2026-10-02,Present
+S009,Ishaan Patel,B,Physics,2026-10-02,Present
+S009,Ishaan Patel,B,English,2026-10-02,Present
+S009,Ishaan Patel,B,Computer Science,2026-10-02,Present
+S009,Ishaan Patel,B,Mathematics,2026-10-03,Present
+S009,Ishaan Patel,B,Physics,2026-10-03,Late
+S009,Ishaan Patel,B,English,2026-10-03,Present
+S009,Ishaan Patel,B,Computer Science,2026-10-03,Present
+S009,Ishaan Patel,B,Mathematics,2026-10-06,Present
+S009,Ishaan Patel,B,Physics,2026-10-06,Present
+S009,Ishaan Patel,B,English,2026-10-06,Present
+S009,Ishaan Patel,B,Computer Science,2026-10-06,Present
+S009,Ishaan Patel,B,Mathematics,2026-10-07,Present
+S009,Ishaan Patel,B,Physics,2026-10-07,Present
+S009,Ishaan Patel,B,English,2026-10-07,Late
+S009,Ishaan Patel,B,Computer Science,2026-10-07,Present
+S010,Diya Joshi,A,Mathematics,2026-10-01,Present
+S010,Diya Joshi,A,Physics,2026-10-01,Present
+S010,Diya Joshi,A,English,2026-10-01,Late
+S010,Diya Joshi,A,Computer Science,2026-10-01,Present
+S010,Diya Joshi,A,Mathematics,2026-10-02,Present
+S010,Diya Joshi,A,Physics,2026-10-02,Present
+S010,Diya Joshi,A,English,2026-10-02,Present
+S010,Diya Joshi,A,Computer Science,2026-10-02,Present
+S010,Diya Joshi,A,Mathematics,2026-10-03,Present
+S010,Diya Joshi,A,Physics,2026-10-03,Absent
+S010,Diya Joshi,A,English,2026-10-03,Present
+S010,Diya Joshi,A,Computer Science,2026-10-03,Present
+S010,Diya Joshi,A,Mathematics,2026-10-06,Present
+S010,Diya Joshi,A,Physics,2026-10-06,Present
+S010,Diya Joshi,A,English,2026-10-06,Present
+S010,Diya Joshi,A,Computer Science,2026-10-06,Present
+S010,Diya Joshi,A,Mathematics,2026-10-07,Late
+S010,Diya Joshi,A,Physics,2026-10-07,Present
+S010,Diya Joshi,A,English,2026-10-07,Present
+S010,Diya Joshi,A,Computer Science,2026-10-07,Present
+S011,Arjun Das,B,Mathematics,2026-10-01,Absent
+S011,Arjun Das,B,Physics,2026-10-01,Present
+S011,Arjun Das,B,English,2026-10-01,Absent
+S011,Arjun Das,B,Computer Science,2026-10-01,Present
+S011,Arjun Das,B,Mathematics,2026-10-02,Present
+S011,Arjun Das,B,Physics,2026-10-02,Absent
+S011,Arjun Das,B,English,2026-10-02,Present
+S011,Arjun Das,B,Computer Science,2026-10-02,Absent
+S011,Arjun Das,B,Mathematics,2026-10-03,Absent
+S011,Arjun Das,B,Physics,2026-10-03,Present
+S011,Arjun Das,B,English,2026-10-03,Absent
+S011,Arjun Das,B,Computer Science,2026-10-03,Present
+S011,Arjun Das,B,Mathematics,2026-10-06,Present
+S011,Arjun Das,B,Physics,2026-10-06,Absent
+S011,Arjun Das,B,English,2026-10-06,Present
+S011,Arjun Das,B,Computer Science,2026-10-06,Late
+S011,Arjun Das,B,Mathematics,2026-10-07,Absent
+S011,Arjun Das,B,Physics,2026-10-07,Present
+S011,Arjun Das,B,English,2026-10-07,Absent
+S011,Arjun Das,B,Computer Science,2026-10-07,Present
+S012,Tara Menon,B,Mathematics,2026-10-01,Present
+S012,Tara Menon,B,Physics,2026-10-01,Present
+S012,Tara Menon,B,English,2026-10-01,Present
+S012,Tara Menon,B,Computer Science,2026-10-01,Present
+S012,Tara Menon,B,Mathematics,2026-10-02,Present
+S012,Tara Menon,B,Physics,2026-10-02,Present
+S012,Tara Menon,B,English,2026-10-02,Present
+S012,Tara Menon,B,Computer Science,2026-10-02,Present
+S012,Tara Menon,B,Mathematics,2026-10-03,Present
+S012,Tara Menon,B,Physics,2026-10-03,Present
+S012,Tara Menon,B,English,2026-10-03,Present
+S012,Tara Menon,B,Computer Science,2026-10-03,Present
+S012,Tara Menon,B,Mathematics,2026-10-06,Present
+S012,Tara Menon,B,Physics,2026-10-06,Present
+S012,Tara Menon,B,English,2026-10-06,Present
+S012,Tara Menon,B,Computer Science,2026-10-06,Present
+S012,Tara Menon,B,Mathematics,2026-10-07,Present
+S012,Tara Menon,B,Physics,2026-10-07,Present
+S012,Tara Menon,B,English,2026-10-07,Present
+S012,Tara Menon,B,Computer Science,2026-10-07,Present

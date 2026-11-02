@@ -1,4 +1,2 @@
-streamlit
-pandas
-mlxtend
-matplotlib
+flask>=3.0
+pandas>=2.2
